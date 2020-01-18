@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="graspit_commander" name="graspit_commander_node"
+    type="graspit_commander_node.py" output="screen"/>
+</launch>
